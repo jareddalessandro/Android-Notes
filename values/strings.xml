@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="newButton">New</string>
+    <string name="backButton">Back</string>
+    <string name="saveButton">Save</string>
+    <string name="noteTitle">Title:</string>
+    <string name="noteContent">Content:</string>
+    <string name="titleText">Title:</string>
+    <string name="contentText">Content:</string>
+</resources>
+
